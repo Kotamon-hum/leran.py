@@ -3,6 +3,9 @@
 #print構文(文字を出力できる)
 print("Hello World!")
 
+name = input("あなたの名前は？")
+print(name+"さん、こんにちは。")
+
 #input構文(ユーザーの入力を受け取る。又は競技プログラミングでは入力を**文字列**で受け取る)
 name = input("あなたの名前は？")
 
